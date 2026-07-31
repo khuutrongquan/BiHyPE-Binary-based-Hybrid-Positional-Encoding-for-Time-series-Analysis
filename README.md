@@ -43,6 +43,7 @@ All datasets are pre-processed and categorized. You can access the complete data
 | **Time-series Imputation (TSI)** | PhysioNet 2012, Electricity, PM25 | Tashiro, Yusuke, et al. (*CSDI*, Advances in neural information processing systems 34, 2021) | [Google Drive - TSI Datasets](https://drive.google.com/drive/folders/1fHAQ3iM61IFEkoW1b_aL82qmmN7oldhj?usp=drive_link) |
 ---
 ### 🔍 Benchmark Dataset Specifications
+* **BiHyPE Core Implementation:** Source code for our proposed positional encoding architecture is available at [`bihype.py`](./bihype.py).
 
 #### Time-series Anomaly Detection (TSAD) Datasets
 <p align="center">
@@ -127,7 +128,7 @@ In addition, the detailed summary of the 18 classification benchmarks evaluated 
 
 #### ETTm1 Dataset
 <p align="center">
-  <img src="images/tsf_ett_results.jpg" alt="TSF ETT Results" width="90%"/>
+  <img src="images/tsf_ettm1_results.jpg" alt="TSF ETT Results" width="90%"/>
 </p>
 
 #### Exchange Dataset
