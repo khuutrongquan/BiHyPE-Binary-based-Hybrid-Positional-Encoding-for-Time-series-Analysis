@@ -25,6 +25,8 @@ This repository aggregates detailed links to specific implementations on 11 Tran
 
 For each task, BiHyPE is substituted into the original positional encoding module of the corresponding baseline model, and results are compared against the baseline's original positional encoding as well as other established positional encoding schemes. Notably, the underlying architectures of all Transformer-based baselines remain unchanged.
 
+---
+
 ## Dataset Information (including third-party original source)
 
 All benchmark datasets used in this project are pre-processed and organized by task domain. The detailed reference source of datasets will be provided recently.
@@ -196,3 +198,17 @@ Reconstruction performance across 3 imputation datasets (**PhysioNet 2012**, **E
 <p align="center">
   <img src="images/tsi_benchmark_results.jpg" alt="TSI Benchmark Results" width="90%"/>
 </p>
+
+---
+
+## Author Contributions and Contact
+### Author Contributions
+- **Khuu Trong Quan**<sup>1</sup>(First Author) 
+- **Huynh Cong Viet Ngu**<sup>1</sup> (Corresponding Author)
+
+  <sup>1</sup>AI and Cybersecurity Laboratory (AIC Lab) — FPT University HCM Campus — Ho Chi Minh city - Vietnam
+
+### Contact
+For questions, issues, or collaboration inquiries regarding this repository, please contact the corresponding author:
+- **Huynh Cong Viet Ngu** (Corresponding Author) - nguhcv@fe.edu.vn
+- Or open an [Issue](../../issues) on this repository.
